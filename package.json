@@ -1,0 +1,27 @@
+{
+  "name": "material-basic-starter-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Konstantin Lyakh <kostya.lyakh@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack serve",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.0.1",
+    "extract-loader": "^5.1.0",
+    "file-loader": "^6.2.0",
+    "sass": "^1.32.4",
+    "sass-loader": "^10.1.1",
+    "webpack": "^5.13.0",
+    "webpack-cli": "^4.3.1",
+    "webpack-dev-server": "^3.11.1"
+  },
+  "dependencies": {
+    "material-components-web": "^9.0.0"
+  }
+}
