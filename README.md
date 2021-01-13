@@ -1,4 +1,4 @@
-<h1 align="center">Material Basic Starter Kit</h1>
+<h1 align="center">Basic Material Starter Kit</h1>
 
 <p align="center">
     Basic template for your experiments with <a href="https://material.io/develop/web" target="_blank">Material Components for the Web</a>
@@ -7,7 +7,7 @@
 The template is based on [Getting Started](https://material.io/develop/web/docs/getting-started) doc, but fixes some errors and adds small improvements:
 
 - fixed outdated `babel-loader` configuration
-- includes `Roboto` font
+- links `Roboto` font
 - proper `mdc-button` HTML markup
 
 
@@ -27,5 +27,4 @@ yarn start
 
 # build for production with minification
 yarn build
-
 ```
