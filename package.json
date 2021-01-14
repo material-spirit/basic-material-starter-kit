@@ -1,6 +1,6 @@
 {
-  "name": "material-basic-starter-kit",
-  "version": "1.0.0",
+  "name": "basic-material-starter-kit",
+  "version": "0.1.0",
   "main": "index.js",
   "author": "Konstantin Lyakh <kostya.lyakh@gmail.com>",
   "license": "MIT",
@@ -15,6 +15,7 @@
     "css-loader": "^5.0.1",
     "extract-loader": "^5.1.0",
     "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.0.0-beta.4",
     "sass": "^1.32.4",
     "sass-loader": "^10.1.1",
     "webpack": "^5.13.0",

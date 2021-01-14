@@ -1,5 +1,8 @@
+const HtmlWebpackPlugin = require('html-webpack-plugin')
+
 module.exports = [{
-  entry: ['./app.scss', './app.js'],
+  mode: "development",
+  entry: ['./src/app.scss', './src/app.js'],
   output: {
     // This is necessary for webpack to compile
     // But we never use style-bundle.js
@@ -42,4 +45,10 @@ module.exports = [{
       }
     ]
   },
+  plugins: [
+    new HtmlWebpackPlugin({
+      template: 'src/index.html',
+      inject: false
+    }),
+  ]
 }];
