@@ -1,8 +1,7 @@
-<h1 align="center">Basic Material Starter Kit</h1>
+# Basic Material Starter Kit
 
-<p align="center">
-    Basic template for your experiments and prototyping with <a href="https://material.io/develop/web" target="_blank">Material Components for the Web</a> (or MDC-Web)
-</p>
+
+:rocket: **Basic template for experimenting and prototyping with [Material Components for the Web](https://material.io/develop/web) (or MDC-Web).**
 
 The template is based on [Getting Started](https://material.io/develop/web/docs/getting-started) doc, but fixes some errors and adds small improvements:
 
@@ -11,7 +10,7 @@ The template is based on [Getting Started](https://material.io/develop/web/docs/
 - :heavy_check_mark: proper `mdc-button` HTML markup
 
 
-The template uses MDC-Web with SASS (not via CDN) allowing you to use mixins, perform customizations and theming. As an example, the template includes and customizes [@material/button](https://material.io/components/buttons/web) component.
+**MDC-Web is used with SASS** (not via CDN) allowing you to use mixins, perform customizations and theming. As an example, the template includes customized [@material/button](https://material.io/components/buttons/web) component.
 
 
 ## Usage
