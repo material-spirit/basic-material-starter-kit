@@ -1,0 +1,32 @@
+{
+  "name": "basic-material-starter-kit",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kekscs/basic-material-starter-kit",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/kekscs/basic-material-starter-kit.git"
+  },
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack serve",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.0.1",
+    "extract-loader": "^5.1.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.0.0-beta.4",
+    "sass": "^1.32.4",
+    "sass-loader": "^10.1.1",
+    "webpack": "^5.13.0",
+    "webpack-cli": "^4.3.1",
+    "webpack-dev-server": "^3.11.1"
+  },
+  "dependencies": {
+    "material-components-web": "^9.0.0"
+  }
+}
