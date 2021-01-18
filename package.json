@@ -1,8 +1,12 @@
 {
   "name": "basic-material-starter-kit",
   "version": "0.1.0",
-  "main": "index.js",
-  "author": "Konstantin Lyakh <kostya.lyakh@gmail.com>",
+  "homepage": "https://github.com/kekscs/basic-material-starter-kit",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/kekscs/basic-material-starter-kit.git"
+  },
+  "private": true,
   "license": "MIT",
   "scripts": {
     "start": "webpack serve",
