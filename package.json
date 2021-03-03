@@ -27,6 +27,6 @@
     "webpack-dev-server": "^3.11.1"
   },
   "dependencies": {
-    "material-components-web": "^9.0.0"
+    "material-components-web": "latest"
   }
 }
