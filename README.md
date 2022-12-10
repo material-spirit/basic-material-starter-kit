@@ -17,7 +17,7 @@ The template is based on [Getting Started](https://material.io/develop/web/docs/
 
 ### Option 1: Developing locally
 
-Go to [Releases](https://github.com/kekscs/basic-material-starter-kit/releases) and download the latest release. Unpack it, rename the folder/app and use it as a starting point for experimenting with MDC-Web:
+Go to [Releases](https://github.com/material-spirit/basic-material-starter-kit/releases) and download the latest release. Unpack it, rename the folder/app and use it as a starting point for experimenting with MDC-Web:
 ``` bash
 # install dependencies
 yarn install
@@ -32,5 +32,5 @@ yarn build
 ### Option 2: Developing and sharing online
 
 1. Go to [codesandbox.io](https://codesandbox.io/) and click Create Sandbox.
-2. Select "Import Project" and enter GitHub repository: `https://github.com/kekscs/basic-material-starter-kit`
+2. Select "Import Project" and enter GitHub repository: `https://github.com/material-spirit/basic-material-starter-kit.git`
 3. Once the initialization is done, you'll have online workspace ready for development and sharing.
