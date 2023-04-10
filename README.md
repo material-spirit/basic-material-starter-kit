@@ -34,3 +34,6 @@ yarn build
 1. Go to [codesandbox.io](https://codesandbox.io/) and click Create Sandbox.
 2. Select "Import Project" and enter GitHub repository: `https://github.com/material-spirit/basic-material-starter-kit.git`
 3. Once the initialization is done, you'll have online workspace ready for development and sharing.
+
+## Other Material-Influenced Projects
+* [Angular Material Split-Button](https://github.com/material-spirit/ngx-split-button)
